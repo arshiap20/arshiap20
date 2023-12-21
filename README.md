@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
 </div>
 
-<img height="10" />
 ###
+<img height="5" />
 
 <h2 align="left">🛠 Language and tools</h2>
 
