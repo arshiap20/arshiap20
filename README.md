@@ -18,7 +18,7 @@
 </div>
 
 ###
-<img height="3" />
+<img height="2" />
 
 <h2 align="left">🛠 Language and tools</h2>
 
