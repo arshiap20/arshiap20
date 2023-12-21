@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋! My name is Arshia and I'm a Front-End Developer</h1>
-  <img height="14" />
 
 ###
 
@@ -18,7 +17,6 @@
 </div>
 
 ###
-<img height="2" />
 
 <h2 align="left">🛠 Language and tools</h2>
 
