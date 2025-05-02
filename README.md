@@ -1,5 +1,3 @@
-<h1 align="left">Hi 👋! My name is Arshia and I'm a Front-End Developer</h1>
-
 <div align="center">
   <a href="https://web.telegram.org/k/#@arshia_peykari" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="telegram logo"  />
